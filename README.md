@@ -1,0 +1,6 @@
+# 正版太阳线ASP源码十级会员/分红多层模式分成系统直销促销
+
+本店源码都是亲测后上架,保证可用!<br>买家拍下后不要以任何理由退款.<br>否则必奉陪到底.<br>低价源码，不包安装，不提供任何售后，源码可能存在部分BUG。接受在拍，不接受请不要拍。谢谢<br>（不要问我有没有演示站,自己看图.）<br>太阳线直销系统：支持N代宽度和十代深度发展会员。您可以从每个一级得到60元，每个二级得到40元，每个三级得到20元，每个四级客户处得到15元假如您发展了10个一级客户，而您的每个一级客户也都发展了10个客户，依次类推，你会有10+10×10+10×10×10+10×10×10×10=11110个客户<br>您会得到10×60元+100×40元+1000×20元+10000×15元=174600元<br>每四级结束后退出循环：就是说您的第四级客户发展的会员（即您的第五级客户）公司将不再给您提成，所以如果您想持续盈利，必须不断发展您的一级<br>功　能Xhtml/MIDI/MP3/Shock Wave/Flash...............................................语　言    ASP...............................................数据库    accse...............................................组　件 ASPUpload 3/JMail/ASPJpeg<br>安装说明：直接上传解压即可<br>后台·地址：<br>后台地址/example.com<br>帐号admin密码123456<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/wWspW" style="color: red;">https://mega-file.org/wWspW</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
